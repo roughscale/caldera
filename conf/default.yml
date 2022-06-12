@@ -1,6 +1,7 @@
 ability_refresh: 60
 api_key_blue: BLUEADMIN123
 api_key_red: ADMIN123
+app.api_key.red: ADMIN123
 app.contact.dns.domain: mycaldera.caldera
 app.contact.dns.socket: 0.0.0.0:8853
 app.contact.gist: API_KEY
