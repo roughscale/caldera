@@ -18,7 +18,8 @@
 	url = https://github.com/mitre/compass.git
 [submodule "plugins/access"]
 	path = plugins/access
-	url = https://github.com/mitre/access.git
+	url = https://github.com/roughscale/access.git
+	branch = devel
 [submodule "plugins/atomic"]
 	path = plugins/atomic
 	url = https://github.com/mitre/atomic.git
