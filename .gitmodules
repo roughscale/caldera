@@ -1,6 +1,7 @@
 [submodule "plugins/sandcat"]
 	path = plugins/sandcat
-	url = https://github.com/mitre/sandcat.git
+	url = https://github.com/roughscale/sandcat.git
+	branch = devel
 [submodule "plugins/stockpile"]
 	path = plugins/stockpile
 	url = https://github.com/mitre/stockpile.git
@@ -18,7 +19,8 @@
 	url = https://github.com/mitre/compass.git
 [submodule "plugins/access"]
 	path = plugins/access
-	url = https://github.com/mitre/access.git
+	url = https://github.com/roughscale/access.git
+	branch = devel
 [submodule "plugins/atomic"]
 	path = plugins/atomic
 	url = https://github.com/mitre/atomic.git
