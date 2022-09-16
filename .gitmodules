@@ -2,6 +2,10 @@
 	path = plugins/sandcat
 	url = https://github.com/roughscale/sandcat.git
 	branch = devel
+[submodule "plugins/learning"]
+	path = plugins/learning
+	url = https://github.com/roughscale/caldera_learning.git
+	branch = devel
 [submodule "plugins/stockpile"]
 	path = plugins/stockpile
 	url = https://github.com/mitre/stockpile.git
@@ -51,3 +55,7 @@
 [submodule "plugins/emu"]
 	path = plugins/emu
 	url = https://github.com/mitre/emu.git
+[submodule "plugins/learning/cyborg"]
+	path = plugins/learning/objects
+	url = https://github.com/roughscale/cyborg.git
+	branch = devel
