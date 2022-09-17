@@ -55,7 +55,7 @@
 [submodule "plugins/emu"]
 	path = plugins/emu
 	url = https://github.com/mitre/emu.git
-[submodule "plugins/learning/cyborg"]
-	path = plugins/learning/objects
+[submodule "plugins/cyborg"]
+	path = plugins/cyborg
 	url = https://github.com/roughscale/cyborg.git
 	branch = devel
